@@ -106,7 +106,7 @@ This will move the starter code into the `app-example` directory and create a fr
 
 ## Author
 
-Built by **Abdul-Mumin Olayinka**.
+Built by **Habibullah Eniolabi**.
 
 ## License
 
